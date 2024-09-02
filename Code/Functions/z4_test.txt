@@ -1,0 +1,13 @@
+image créer   : z4_test.png
+système       : z4_sys et z4_jac
+taille image  : 1000 x 1000
+zone d'étude  : [5.3 6.9] x [-0.4 0.4]
+itermax       : 24
+epsF          : 1e-14
+temps calcul  : 130.79 s
+% de conv     : 100.00 %
+nbr moyen d'iter : 18.28
+conv vers solution 1 : 5.45 % en 0.00 iter
+conv vers solution 2 : 44.20 % en 0.00 iter
+conv vers solution 3 : 0.00 % en Inf iter
+conv vers solution 4 : 0.00 % en 16.00 iter

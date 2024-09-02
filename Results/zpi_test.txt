@@ -1,0 +1,11 @@
+image créer   : zpi_test.png
+système       : @(X)zpi_F(X,p) et @(X)zpi_DFDX(X,p)
+taille image  : 1000 x 1000
+zone d'étude  : [0 6] x [-3 3]
+itermax       : 125
+epsF          : 1e-12
+temps calcul  : 560.96 s
+% de conv     : 100.00 %
+nbr moyen d'iter : 39.56
+conv vers solution 1 : 0.00 % en Inf iter
+conv vers solution 2 : 76.14 % en 0.00 iter

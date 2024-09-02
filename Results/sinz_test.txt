@@ -1,0 +1,10 @@
+image créer   : sinz_test.png
+système       : sinz_F et sinz_dFdX
+taille image  : 1000 x 1000
+zone d'étude  : [-2.0708 -1.0708] x [-0.5 0.5]
+itermax       : 300
+epsF          : 1e-12
+temps calcul  : 348.56 s
+% de conv     : 100.00 %
+nbr moyen d'iter : 26.15
+conv vers solution 1 : 100.00 % en 0.00 iter

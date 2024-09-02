@@ -1,0 +1,12 @@
+image créer   : zcub_v1.png
+système       : zcubF et zcubDFDX
+taille image  : 1000 x 1000
+zone d'étude  : [-5 5] x [-5 5]
+itermax       : 15
+epsF          : 1e-05
+temps calcul  : 118.30 s
+% de conv     : 100.00 %
+nbr moyen d'iter : 9.10
+conv vers solution 1 : 33.55 % en 0.00 iter
+conv vers solution 2 : 31.09 % en 0.00 iter
+conv vers solution 3 : 31.09 % en 0.00 iter

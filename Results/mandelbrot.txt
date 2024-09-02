@@ -1,0 +1,10 @@
+image créer   : mandelbrot.png
+système       : @(X)mandelF(X,c) et @(X)mandeldFdX(X,c)
+taille image  : 960 x 1200
+zone d'étude  : [-1 1] x [-1.5 1.5]
+itermax       : 300
+epsF          : 1e-12
+temps calcul  : 425.68 s
+% de conv     : 100.00 %
+nbr moyen d'iter : 11.76
+conv vers solution 1 : 99.85 % en 0.00 iter
